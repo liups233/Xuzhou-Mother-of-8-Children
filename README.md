@@ -15,9 +15,7 @@
 
 （部分内容来自维基百科）
 
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children@7491faf618551875f49dcf4a443e77a39084db15/%E8%A2%AB%E6%8B%90%E5%B8%A6%E8%80%8C%E6%9D%A5%E7%9A%84%E5%85%AB%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%A2%AB%E5%83%8F%E7%8B%97%E4%B8%80%E6%A0%B7%E6%8B%B4%E7%9D%80.mp4" type="video/mp4">
-</video>
+[这里是原视频](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children@7491faf618551875f49dcf4a443e77a39084db15/%E8%A2%AB%E6%8B%90%E5%B8%A6%E8%80%8C%E6%9D%A5%E7%9A%84%E5%85%AB%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%A2%AB%E5%83%8F%E7%8B%97%E4%B8%80%E6%A0%B7%E6%8B%B4%E7%9D%80.mp4)
 
 视频原本在哔哩哔哩也有，后因「不明原因」被删除。经测试，现已无法通过审核，以下是原视频置顶的评论。
 ![B站视频置顶评论](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E7%BD%AE%E9%A1%B6%E8%AF%84%E8%AE%BA.webp)
@@ -93,9 +91,7 @@
 2月2日，微博用户「今夜是蓝色的海」分享了一个视频，当中，杨某侠指着房子说了一句话，网友指出内容是四川话：
 「这一窝人不是人，通通实施强奸」。
 
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E6%9D%A8%E6%9F%90%E4%BE%A0%E7%9A%84%E8%AF%9D.mp4" type="video/mp4">
-</video>
+[这里是原视频](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E6%9D%A8%E6%9F%90%E4%BE%A0%E7%9A%84%E8%AF%9D.mp4)
 
 照我看来，精神病到了需要用铁链拴住的病人，应该不会说出这么有针对性的话吧。
 
@@ -108,19 +104,13 @@
 网民上传互联网的一段视频显示，在夜色中，多名警察阻挠网民进村，其中一名戴口罩的警察以「坐牢」威胁网民：
 「你们这个力量算啥？闹不起来，掀不起风浪，特别是你们几个挑头的，你一旦挑头，你就被抓，你就要坐牢，我明确跟你说，你以为你是什么？我们现在上百号警力在戒备……」
 
-以下是视频。
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E5%85%AB%E5%AD%A9%E6%AF%8D%E4%BA%B2%20%E8%AD%A6%E5%8A%9B%E6%88%92%E5%A4%87.mp4" type="video/mp4">
-</video>
+[这里是原视频](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E5%85%AB%E5%AD%A9%E6%AF%8D%E4%BA%B2%20%E8%AD%A6%E5%8A%9B%E6%88%92%E5%A4%87.mp4)
 
 微博网民「乌衣古城」在丰县试图声援，并在自己的车身上写下「丰县董志民涉强奸精神病女逼生八孩 反领补贴得救助」。随后，警察「很迅速地出现在酒店的房间里。直接就推门进来。一直说不允许这样。说我扰乱司法公正。」其微博帐号现已被禁言。
 
 另一位丰县博主「拳拳锤你线头」也被当地警方警告「办理案子属于国家机密，是不允许这么对外宣传的」。
 
-以下是视频。
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E6%8B%B3%E6%8B%B3%E9%94%A4%E4%BD%A0%E7%BA%BF%E5%A4%B4%20%E7%9A%84%E5%BE%AE%E5%8D%9A.mp4" type="video/mp4">
-</video>
+[这里是原视频](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E6%8B%B3%E6%8B%B3%E9%94%A4%E4%BD%A0%E7%BA%BF%E5%A4%B4%20%E7%9A%84%E5%BE%AE%E5%8D%9A.mp4)
 
 而在丰县两次通报八孩女子事件后，两户人家大门紧闭，村民因受警告纷纷绕道而行。
 
@@ -141,10 +131,7 @@
 
 ## 「这个世界不要俺了」VS「一起向未来」
 
-「这个世界不要俺了」
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8D%E8%A6%81%E4%BF%BA%E4%BA%86%E3%80%82.mp4" type="video/mp4">
-</video>
+[「这个世界不要俺了」](https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8D%E8%A6%81%E4%BF%BA%E4%BA%86%E3%80%82.mp4)
 
 当她在说出那句话的时候，除了身旁的一个孩子，还有谁理她呢？
 
@@ -208,10 +195,8 @@
 
 **「只要我们醒着，就不要装睡。」**
 
-最后，当我在查询资料的时候，发现了一首令我泪目的音乐，由米米演唱的『不要我了』。（[原视频地址](https://youtu.be/TqfyiYJtHvM)）
-<video controls>
-    <source src="https://cdn.jsdelivr.net/gh/liups233/Xuzhou-Mother-of-8-Children/%E4%B8%8D%E8%A6%81%E6%88%91%E4%BA%86%EF%BC%8F%E7%B1%B3%E7%B1%B3.mp4" type="video/mp4">
-</video>
+最后，当我在查询资料的时候，发现了一首令我泪目的音乐，由米米演唱的『不要我了』。
+[原视频](https://youtu.be/TqfyiYJtHvM)
 
 希望这世界能变得幸福和美好吧，虽然可能只是我的痴心妄想。
 
